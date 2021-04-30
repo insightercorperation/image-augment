@@ -1,0 +1,27 @@
+{
+  "link": "https://markcloud-annotaion-images.s3.ap-northeast-2.amazonaws.com/1270997.jpg",
+  "originalName": "1270997",
+  "labels": {
+    "0xsl93ixs": [
+      {
+        "name": "불완전한(미완성의) 별",
+        "annotations": {
+          "id": "ik61irt0mdbg3sfb9md84",
+          "type": "bbox",
+          "points": [
+            {
+              "lat": -8.131389038872044,
+              "lng": -19.77984041985269
+            },
+            {
+              "lat": 343.5447839142098,
+              "lng": 328.42558214891073
+            }
+          ]
+        }
+      }
+    ],
+    "ik4yg7xlq": [],
+    "73em6szar": []
+  }
+}

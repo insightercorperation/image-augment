@@ -1,0 +1,27 @@
+{
+    "link": "https://markcloud-annotaion-images.s3.ap-northeast-2.amazonaws.com/870285.jpg",
+    "originalName": "870285",
+    "labels": {
+        "0xsl93ixs": [],
+        "73em6szar": [],
+        "ik4yg7xlq": [
+            {
+                "name": "불완전한(미완성의) 별",
+                "annotations": {
+                    "id": "1f60fijo55xtjfuwknp4r",
+                    "type": "bbox",
+                    "points": [
+                        {
+                            "lat": 87.6077539219702,
+                            "lng": 159.97368516545646
+                        },
+                        {
+                            "lat": 314.8997360620628,
+                            "lng": 291.0456588672407
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

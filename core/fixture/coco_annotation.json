@@ -1,0 +1,98 @@
+{
+    "info": {
+        "description": "2021 인사이터 비엔나코드 010103 상표이미지 데이터 셋",
+        "url": "",
+        "version": "1.0",
+        "year": 2021,
+        "contributor": "(주)인사이터",
+        "dateCreated": "2021/01/22"
+    },
+    "licenses": [
+        {
+            "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+            "id": 1,
+            "name": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication License"
+        }
+    ],
+    "images": [
+        {
+            "fileName": "4019840004451_resize_416.jpg",
+            "height": 416,
+            "width": 416,
+            "id": "4019840004451"
+        },
+        {
+            "fileName": "1000457_resize_416.jpg",
+            "height": 416,
+            "width": 416,
+            "id": "1000457"
+        },
+        {
+            "fileName": "1428556_resize_416.jpg",
+            "height": 416,
+            "width": 416,
+            "id": "1428556"
+        }
+    ],
+    "annotations": [
+        {
+            "area": 173056,
+            "iscrowd": false,
+            "image_id": "4019840004451",
+            "bbox": [
+                52.07,
+                95.94,
+                195.31,
+                194.43
+            ],
+            "category_id": 1,
+            "id": "y77gbya8yqelfktiwxs6bp"
+        },
+        {
+            "area": 173056,
+            "iscrowd": false,
+            "image_id": "4019840004451",
+            "bbox": [
+                52.07,
+                95.94,
+                195.31,
+                194.12
+            ],
+            "category_id": 1,
+            "id": "y77gbya8yqelfktiwxs4gb"
+        },
+        {
+            "area": 173056,
+            "iscrowd": false,
+            "image_id": "1000457",
+            "bbox": [
+                182.81,
+                -25.5,
+                155.96,
+                462.27
+            ],
+            "category_id": 1,
+            "id": "c595nn7hcfn89ezouhq5e4"
+        },
+        {
+            "area": 173056,
+            "iscrowd": false,
+            "image_id": "1428556",
+            "bbox": [
+                100.97,
+                -7.09,
+                90.38,
+                436.43
+            ],
+            "category_id": 1,
+            "id": "gqlj1hxio5m9byl2jo1o"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "supercategory": "투명 별",
+            "name": "투명 별"
+        }
+    ]
+}
